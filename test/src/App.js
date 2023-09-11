@@ -2,16 +2,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <>Hello </>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://iamneo.ai"
           target="_blank"
           rel="noopener noreferrer"
         >
-         Hello iamneo !!
+         iamneo !!
         </a>
       </header>
     </div>
