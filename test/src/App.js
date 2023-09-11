@@ -2,7 +2,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <>Hello </>
+       <center> <>Hello </>
         <a
           className="App-link"
           href="https://iamneo.ai"
@@ -10,7 +10,7 @@ function App() {
           rel="noopener noreferrer"
         >
          iamneo !!
-        </a>
+        </a></center>
       </header>
     </div>
   );
